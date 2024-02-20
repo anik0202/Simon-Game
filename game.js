@@ -68,4 +68,5 @@ function checkAnswer(currentLevel){
 function startOver(){
     level = 0;
     gamePattern = [];
+    userClickedPattern = [];
 }
